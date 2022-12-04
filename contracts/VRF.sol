@@ -1,7 +1,11 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity >=0.5.8;
 
-// This is a rng contract copied from https://medium.com/gammastack/random-number-generation-on-blockchain-d3141e1efc2
+/**
+    * @title A mock verificable random function
+    * @author Optimaze team copied from https://medium.com/gammastack/random-number-generation-on-blockchain-d3141e1efc2
+    * @notice This vrf is for a testnet and hackthon submission purpose only. Don't use this in production.
+    */ 
 
 contract Test {
     /**
